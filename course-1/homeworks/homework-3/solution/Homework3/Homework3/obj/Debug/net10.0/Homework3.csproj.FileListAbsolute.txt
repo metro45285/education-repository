@@ -1,0 +1,16 @@
+D:\portfolio\course-1\homeworks\homework-3\solution\Homework3\Homework3\bin\Debug\net10.0\Homework3.exe
+D:\portfolio\course-1\homeworks\homework-3\solution\Homework3\Homework3\bin\Debug\net10.0\Homework3.deps.json
+D:\portfolio\course-1\homeworks\homework-3\solution\Homework3\Homework3\bin\Debug\net10.0\Homework3.runtimeconfig.json
+D:\portfolio\course-1\homeworks\homework-3\solution\Homework3\Homework3\bin\Debug\net10.0\Homework3.dll
+D:\portfolio\course-1\homeworks\homework-3\solution\Homework3\Homework3\bin\Debug\net10.0\Homework3.pdb
+D:\portfolio\course-1\homeworks\homework-3\solution\Homework3\Homework3\obj\Debug\net10.0\Homework3.GeneratedMSBuildEditorConfig.editorconfig
+D:\portfolio\course-1\homeworks\homework-3\solution\Homework3\Homework3\obj\Debug\net10.0\Homework3.AssemblyInfoInputs.cache
+D:\portfolio\course-1\homeworks\homework-3\solution\Homework3\Homework3\obj\Debug\net10.0\Homework3.AssemblyInfo.cs
+D:\portfolio\course-1\homeworks\homework-3\solution\Homework3\Homework3\obj\Debug\net10.0\Homework3.csproj.CoreCompileInputs.cache
+D:\portfolio\course-1\homeworks\homework-3\solution\Homework3\Homework3\obj\Debug\net10.0\Homework3.sourcelink.json
+D:\portfolio\course-1\homeworks\homework-3\solution\Homework3\Homework3\obj\Debug\net10.0\Homework3.dll
+D:\portfolio\course-1\homeworks\homework-3\solution\Homework3\Homework3\obj\Debug\net10.0\refint\Homework3.dll
+D:\portfolio\course-1\homeworks\homework-3\solution\Homework3\Homework3\obj\Debug\net10.0\Homework3.pdb
+D:\portfolio\course-1\homeworks\homework-3\solution\Homework3\Homework3\obj\Debug\net10.0\Homework3.genruntimeconfig.cache
+D:\portfolio\course-1\homeworks\homework-3\solution\Homework3\Homework3\obj\Debug\net10.0\ref\Homework3.dll
+D:\portfolio\course-1\homeworks\homework-3\solution\Homework3\Homework3\obj\Debug\net10.0\Homework3.csproj.Up2Date
