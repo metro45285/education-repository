@@ -1,0 +1,16 @@
+D:\portfolio\course-1\practices\practice-5\solution\practice5\practice5\bin\Debug\net10.0\practice5.exe
+D:\portfolio\course-1\practices\practice-5\solution\practice5\practice5\bin\Debug\net10.0\practice5.deps.json
+D:\portfolio\course-1\practices\practice-5\solution\practice5\practice5\bin\Debug\net10.0\practice5.runtimeconfig.json
+D:\portfolio\course-1\practices\practice-5\solution\practice5\practice5\bin\Debug\net10.0\practice5.dll
+D:\portfolio\course-1\practices\practice-5\solution\practice5\practice5\bin\Debug\net10.0\practice5.pdb
+D:\portfolio\course-1\practices\practice-5\solution\practice5\practice5\obj\Debug\net10.0\practice5.GeneratedMSBuildEditorConfig.editorconfig
+D:\portfolio\course-1\practices\practice-5\solution\practice5\practice5\obj\Debug\net10.0\practice5.AssemblyInfoInputs.cache
+D:\portfolio\course-1\practices\practice-5\solution\practice5\practice5\obj\Debug\net10.0\practice5.AssemblyInfo.cs
+D:\portfolio\course-1\practices\practice-5\solution\practice5\practice5\obj\Debug\net10.0\practice5.csproj.CoreCompileInputs.cache
+D:\portfolio\course-1\practices\practice-5\solution\practice5\practice5\obj\Debug\net10.0\practice5.sourcelink.json
+D:\portfolio\course-1\practices\practice-5\solution\practice5\practice5\obj\Debug\net10.0\practice5.dll
+D:\portfolio\course-1\practices\practice-5\solution\practice5\practice5\obj\Debug\net10.0\refint\practice5.dll
+D:\portfolio\course-1\practices\practice-5\solution\practice5\practice5\obj\Debug\net10.0\practice5.pdb
+D:\portfolio\course-1\practices\practice-5\solution\practice5\practice5\obj\Debug\net10.0\practice5.genruntimeconfig.cache
+D:\portfolio\course-1\practices\practice-5\solution\practice5\practice5\obj\Debug\net10.0\ref\practice5.dll
+D:\portfolio\course-1\practices\practice-5\solution\practice5\practice5\obj\Debug\net10.0\practice5.csproj.Up2Date
